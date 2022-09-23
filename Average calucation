@@ -1,0 +1,8 @@
+p=float(input())
+q=float(input())
+r=float(input())
+s=float(input())
+t=float(input())
+n=5
+Avg=((p+q+r+s+t)/5)
+print("%.2f"%Avg)
