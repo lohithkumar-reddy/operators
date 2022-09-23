@@ -1,0 +1,5 @@
+x=int(input())
+y=int(input())
+et=x//y
+lo=x%y
+print(f"The number of students in each team is",et,"and left out is",lo)
