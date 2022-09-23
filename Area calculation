@@ -1,0 +1,8 @@
+a=int(input())
+l=int(input())
+b=int(input())
+r=float(input())
+sqr=a*a
+rect=l*b
+area=3.14*r*r
+print(sqr)
